@@ -17,6 +17,19 @@ I'm a 4th-year B.Tech Computer Science student interested in Full-Stack Developm
 😄 &nbsp;Pronouns: **She/Her**  
 ⚡ &nbsp;Fun fact: **I enjoy turning ideas into small projects and learning something new with every build!**
 
+### 🚀 Featured Projects
+
+**1. LegalConnect – Full-Stack Legal Consultation Platform**
+- Building a platform for clients to find lawyers and manage consultations.
+- Tech: JavaScript, Node.js, Express, SQLite.
+- Status: In Progress.
+- [View Repository](https://github.com/AnjalyH/LegalConnect-fullstack)
+
+**2. AI Document Assistant**
+- A document-based question-answering application using RAG.
+- Tech: Python, Streamlit, LangChain, Gemini, FAISS.
+- [View Repository](https://github.com/AnjalyH/AI-and-Web-Development-Projects/tree/main/AI-Document-Assistant)
+  
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -58,11 +71,6 @@ I'm a 4th-year B.Tech Computer Science student interested in Full-Stack Developm
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=AnjalyH&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/AnjalyH">AnjalyH</a></i></p>
