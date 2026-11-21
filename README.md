@@ -23,7 +23,7 @@ I'm a 4th-year B.Tech Computer Science student interested in Full-Stack Developm
 - Building a platform for clients to find lawyers and manage consultations.
 - Tech: JavaScript, Node.js, Express, SQLite.
 - Status: In Progress.
-- [View Repository](https://github.com/AnjalyH/LegalConnect-fullstack)
+- [View Repository](https://github.com/AnjalyH/LegalConnect)
 
 **2. AI Document Assistant**
 - A document-based question-answering application using RAG.
